@@ -1,11 +1,12 @@
 import React from 'react'
 
-const PageA = () => {
+const Contact = () => {
     return (
         <div>
-            <h1>Todo</h1>
+            <h1>Contact/index.tsx</h1>
+            <h2>contactページ</h2>
         </div>
     )
 }
 
-export default PageA
+export default Contact
